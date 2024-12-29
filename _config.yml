@@ -46,7 +46,8 @@ roles:
    end: 2019
    employer: Pasundan University
    description: Taught courses in Probabilistic & Statistic, Discrete Mathematic, Computational Theory, Logic & Mathematics.
- 
+   
+#education is required 
 education:
  - level: Master of Science (M.Si)
    date: 2011
@@ -72,7 +73,7 @@ coursera:
 
 #This section is optional - embeds slideshows from speakerdeck
 # to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
+#speakerdeck:
    #profileurl: https://speakerdeck.com/robhinds
    #talks:
     #- title: Product Management for Engineers
