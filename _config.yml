@@ -27,7 +27,7 @@ skills:
  - University Teaching
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+# blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -46,15 +46,15 @@ roles:
    end: 2019
    employer: Pasundan University
    description: Taught courses in Probabilistic & Statistic, Discrete Mathematic, Computational Theory, Logic & Mathematics.
+ 
+education:
  - level: Master of Science (M.Si)
-   start: 2011
-   dept: Computational Science
-   subject: Computer Vision and Image Processing
+   date: 2011
+   subject: Computational Science
    school: Institut Teknologi Bandung
  - level: Bachelor of Science (S.Si)
    start: 2006
-   dept: Physics
-   subject: Computer Vision and Image Processing
+   subject: Physics
    school: Institut Teknologi Bandung
 
 #This section is optional (as is the image link below)
