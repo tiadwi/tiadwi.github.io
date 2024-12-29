@@ -35,7 +35,7 @@ roles:
    start: 2022
    end: Ongoing
    employer: Dicoding Indonesia
-   description: An educational technology platform provides online learning for Indonesian <a href="https://www.dicoding.com" taget="_blank">Dicodingy</a>.
+   description: An educational technology platform provides online learning for Indonesian <a href="https://www.dicoding.com" taget="_blank">Dicoding</a>.
  - title: Lead Machine Learning Curriculum Developer 
    start: 2020
    end: 2022
@@ -54,12 +54,11 @@ education:
    dept: Computational Science
    subject: Computer Vision and Image Processing
    school: Institut Teknologi Bandung
-
  - level: Bachelor of Science (S.Si)
    date: 2006
-   deptt: Physics
+   dept: Physics
    subject: Computer Vision and Image Processing
-   school: University of Birmingham
+   school: Institut Teknologi Bandung
 
 #This section is optional (as is the image link below)
 coursera:
