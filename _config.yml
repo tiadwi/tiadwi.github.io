@@ -46,9 +46,6 @@ roles:
    end: 2019
    employer: Pasundan University
    description: Taught courses in Probabilistic & Statistic, Discrete Mathematic, Computational Theory, Logic & Mathematics.
-
-#Education is required
-education:
  - level: Master of Science (M.Si)
    start: 2011
    dept: Computational Science
