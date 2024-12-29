@@ -46,17 +46,25 @@ roles:
    end: 2019
    employer: Pasundan University
    description: Taught courses in Probabilistic & Statistic, Discrete Mathematic, Computational Theory, Logic & Mathematics.
+ - title: Master of Science (M.Si)
+   start: 2011
+   end: 2014
+   school: Institut Teknologi Bandung
+ - title: Bachelor of Science
+   start: 2006
+   end: 2011
+   school: Institut Teknologi Bandung
    
 #education is required 
-education:
- - level: Master of Science (M.Si)
-   date: 2011
-   subject: Computational Science
-   school: Institut Teknologi Bandung
- - level: Bachelor of Science (S.Si)
-   start: 2006
-   subject: Physics
-   school: Institut Teknologi Bandung
+#education:
+ #- level: Master of Science (M.Si)
+   #date: 2011
+   #subject: Computational Science
+   #school: Institut Teknologi Bandung
+ #- level: Bachelor of Science (S.Si)
+   #start: 2006
+   #subject: Physics
+   #school: Institut Teknologi Bandung
 
 #This section is optional (as is the image link below)
 coursera:
