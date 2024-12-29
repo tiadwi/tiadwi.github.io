@@ -49,11 +49,11 @@ roles:
  - title: Master of Science (M.Si)
    start: 2011
    end: 2014
-   school: Institut Teknologi Bandung
- - title: Bachelor of Science
+   employer: Institut Teknologi Bandung
+ - title: Bachelor of Science (S.Si)
    start: 2006
    end: 2011
-   school: Institut Teknologi Bandung
+   employer: Institut Teknologi Bandung
    
 #education is required 
 #education:
