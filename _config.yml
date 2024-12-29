@@ -27,7 +27,7 @@ skills:
  - University Teaching
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-#blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
@@ -50,12 +50,12 @@ roles:
 #Education is required
 education:
  - level: Master of Science (M.Si)
-   date: 2011
+   start: 2011
    dept: Computational Science
    subject: Computer Vision and Image Processing
    school: Institut Teknologi Bandung
  - level: Bachelor of Science (S.Si)
-   date: 2006
+   start: 2006
    dept: Physics
    subject: Computer Vision and Image Processing
    school: Institut Teknologi Bandung
